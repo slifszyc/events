@@ -2,7 +2,7 @@
   "name": "events-component-2",
   "version": "1.0.4",
   "dependencies": {
-    "event-component": "0.1.0",
+    "component-event": "*",
     "delegate-component": "0.1.0"
   },
   "component": {
